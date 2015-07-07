@@ -2,5 +2,5 @@
 JavaScript Visualization Library
 
 ## Resources
-- [TlacuiloJS website](https://Tlacuilo.github.io/TlacuiloJS)
+- TlacuiloJS website
 - [TlacuiloJS wiki](https://github.com/Tlacuilo/TlacuiloJS/wiki)
